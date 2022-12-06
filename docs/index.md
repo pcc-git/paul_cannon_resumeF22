@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Paul Cannon
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Paul Cannon
+NOT the second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
