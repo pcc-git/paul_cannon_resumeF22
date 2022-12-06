@@ -1,1 +1,0 @@
-## It probably shouldn't have Brigham Young's fake information on your resume.
