@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Paul Cannon
 ---
 ## Paul Cannon
