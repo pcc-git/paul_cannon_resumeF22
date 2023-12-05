@@ -1,9 +1,10 @@
 ---
-layout: resume
+layout: cv
 title: Paul Cannon
 ---
 ## Paul Cannon
-
+ 
+ ## Full-time Faculty, January 1, 2024 - Present
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
