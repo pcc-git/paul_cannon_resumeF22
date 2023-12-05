@@ -4,7 +4,7 @@ title: Paul Cannon
 ---
 ## Paul Cannon
  
- ## Full-time Faculty, January 1, 2024 - Present
+ ## Full-time Faculty, January 1, 2024 - January 2, 2024
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
